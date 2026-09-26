@@ -1,6 +1,6 @@
 # Langlisch-R
 
-This is a [Next.js](https://nextjs.org)
+This is a [Next.js](https://nextjs.org) powered software that translates romanized languages into proper english, and also its rescpective native script.
 
 ## Getting Started
 
